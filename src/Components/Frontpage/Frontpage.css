@@ -1,0 +1,20 @@
+.article{
+    background: #525E75;
+    height: 60rem;
+    width: 80rem;
+    border-radius: 2rem;
+    box-shadow: 0 0 2.5rem  rgba(0, 0, 0, 0.6);
+}
+
+.green-text{
+    color: #78938A;
+}
+
+.article__h2{
+padding: 4rem 0 0 4rem;
+}
+
+.article__h1{
+    font-size: 400%;
+    padding-left: 4rem;
+}

@@ -1,6 +1,6 @@
 import "./Home.css"
-import Header from ".../Components/Header/Header";
-import Frontpage from ".../Components/Frontpage/Frontpage";
+import Header from "../../Components/Header/Header";
+import Frontpage from "../../Components/Frontpage/Frontpage";
 
 const Home = () =>{
     return(

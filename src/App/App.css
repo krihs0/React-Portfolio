@@ -6,4 +6,12 @@
 
 html{
     font-size: 62.5%;
+    width: 100vw;
 }
+
+body{
+    min-height: 100vh;
+    background: #372948;
+    font-family: 'Roboto Mono', monospace;
+}
+

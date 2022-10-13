@@ -1,0 +1,12 @@
+.projects__h1{
+    width: 100rem;
+}
+
+.projects{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+

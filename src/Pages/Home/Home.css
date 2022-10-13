@@ -1,9 +1,3 @@
-body{
-    height: 100vh;
-    background: #525E75;
-    font-family: 'Roboto Mono', monospace;
-}
-
 .section{
     height: 85vh;
     display: flex;
